@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "deb6f774-46e3-4df1-a707-97f349f6a8e3": {
+            "name": "Netflix",
+            "description": "Netflix content",
+            "path": "netflix0"
+        },
+        "118ddce4-51df-4c8b-b26e-7f6adc1b58a9": {
+            "name": "Prime Video",
+            "description": "Prime Video content",
+            "path": "primevideo0"
+        }
+    }
+}

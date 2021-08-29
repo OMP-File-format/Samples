@@ -1,0 +1,59 @@
+{
+    "content": {
+        "a606afd1-b712-415f-9e98-4a1a9646df6d": {
+            "type": "series",
+            "name": "The Queen's Gambit",
+            "description": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+            "has-metadata": true,
+            "covers-url": {
+                "horizontal": "https://example.com/series/thequeesgambit/covers/horizontal.png",
+                "vertical": "https://example.com/series/thequeesgambit/covers/vertical.png"
+            },
+            "data": {
+                "season-displaynames": { "singular": "Season", "plurial": "Seasons" },
+                "seasons": [
+                    {
+                        "name": "Season one",
+                        "episodes": [
+                            {
+                                "name": "Openings",
+                                "description": "Elizabeth Harmon is orphaned at age 9 when her mother dies in a car crash on New Circle Road. She is taken to an orphanage, where the children are given tranquilizing pills to make them more compliant. While cleaning erasers in the basement, Beth discovers the custodian, Mr. Shaibel, studying chess on his own.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e01.mkv"
+                            },
+                            {
+                                "name": "Exchanges",
+                                "description": "Beth is adopted as a teenager by Lexington couple Alma and Allston Wheatley. Alma is unhappy, while Allston is emotionally distant and frequently absent for his sales job.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e02.mkv"
+                            },
+                            {
+                                "name": "Doubled Pawns",
+                                "description": "Beth wins the tournament in Cincinnati, giving Alma 15% of the prize money. Beth continues to skip school while traveling to tournaments and quickly gains national recognition for her achievements.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e03.mkv"
+                            },
+                            {
+                                "name": "Middle Game",
+                                "description": "Beth takes night classes in Russian at a local college. She attends a party where she smokes marijuana and sleeps with one of the students. Left alone in her empty apartment for the weekend, she indulges herself with more alcohol and drugs.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e04.mkv"
+                            },
+                            {
+                                "name": "Fork",
+                                "description": "Beth returns home to Kentucky and reconnects with Harry Beltik, who is attending college and has romantic feelings for her. At Beth's suggestion, he moves into Alma's house to accompany the now lonely Beth. The two spend time training and sleep together a few times until Beltik realizes Beth's obsession with chess will always supersede any relationship they may have.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e05.mkv"
+                            },
+                            {
+                                "name": "Adjournment",
+                                "description": "Beth travels to New York with Benny, where he trains her for the Paris Invitational. He invites two strong players, Hilton Wexler and Arthur Levertov to assist, along with a mutual friend, a French model named Cleo, who quickly befriends Beth.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e06.mkv"
+                            },
+                            {
+                                "name": "End Game",
+                                "description": "Jolene and Beth attend Mr. Shaibel's funeral. Afterwards, Beth revisits the orphanage and breaks down when she discovers Shaibel had followed her career up until his death. Jolene helps her quit drinking with a physical fitness regime. Beth rejects funding from the Christian Crusade to travel to the Moscow Invitational.",
+                                "url": "https://example.com/series/thequeesgambit/s01/e07.mkv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

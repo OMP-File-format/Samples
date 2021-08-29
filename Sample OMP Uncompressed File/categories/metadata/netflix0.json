@@ -1,0 +1,29 @@
+{
+    "metada": {
+        "a606afd1-b712-415f-9e98-4a1a9646df6d": {
+            "ratings": {
+                "final": { "value": 8.6, "max": 10 },
+                "stars": [ 
+                    { "stars": 10, "count": 99085 },
+                    { "stars": 9, "count": 115097 },
+                    { "stars": 8, "count": 85825 },
+                    { "stars": 7, "count": 30395 },
+                    { "stars": 6, "count": 8154 },
+                    { "stars": 5, "count": 2641 },
+                    { "stars": 4, "count": 1069 },
+                    { "stars": 3, "count": 679 },
+                    { "stars": 2, "count": 519 },
+                    { "stars": 1, "count": 1696 }
+                ] 
+            },
+            "creatores": [ "Scott Frank", "Allan Scott" ],
+            "stars": [ "Anya Taylor-Joy", "Chloe Pirrie", "Bill Camp" ],
+            "languages-available": [ "French", "English" ],
+            "subtitles-available": [ "French", "English" ],
+            "yt-trailer-url": "https://www.youtube.com/watch?v=CDrieqwSdgI",
+            "imdb-link": "https://www.imdb.com/title/tt10048342/",
+            "tags": [ "Drama" ],
+            "recommended-age": "15"
+        }
+    }
+}

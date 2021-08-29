@@ -1,0 +1,29 @@
+{
+    "metada": {
+        "2c6e0af7-c012-48bb-8d69-3e60a1f2fc50": {
+            "ratings": {
+                "final": { "value": 7.3, "max": 10 },
+                "stars": [ 
+                    { "stars": 10, "count": 11411 },
+                    { "stars": 9, "count": 13946 },
+                    { "stars": 8, "count": 41573 },
+                    { "stars": 7, "count": 49079 },
+                    { "stars": 6, "count": 19286 },
+                    { "stars": 5, "count": 5498 },
+                    { "stars": 4, "count": 1694 },
+                    { "stars": 3, "count": 735 },
+                    { "stars": 2, "count": 407 },
+                    { "stars": 1, "count": 1032 }
+                ] 
+            },
+            "directors": [ "Oliver Stone" ],
+            "stars": [ "Joseph Gordon-Levitt", "Shailene Woodley", "Melissa Leo" ],
+            "languages-available": [ "French", "English" ],
+            "subtitles-available": [ "French", "English" ],
+            "yt-trailer-url": "https://www.youtube.com/watch?v=QlSAiI3xMh4",
+            "imdb-link": "https://www.imdb.com/title/tt3774114/",
+            "tags": [ "Thriller", "Drama" ],
+            "recommended-age": "11"
+        }
+    }
+}

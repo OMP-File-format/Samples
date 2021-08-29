@@ -1,0 +1,8 @@
+{
+    "tags": [
+        { "name": "Horror", "description": "Horror content", "color": "#FF0000" },
+        { "name": "Funny", "description": "Funny content", "color": "#00FF00" },
+        { "name": "Drama", "description": "Drama content", "color": "#0000FF" },
+        { "name": "Thriller", "description": "Thriller content", "color": "#FFFF00" }
+    ]
+}

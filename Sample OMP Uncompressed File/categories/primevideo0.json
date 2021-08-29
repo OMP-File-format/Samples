@@ -1,0 +1,17 @@
+{
+    "content": {
+        "2c6e0af7-c012-48bb-8d69-3e60a1f2fc50": {
+            "type": "film",
+            "name": "Snowden",
+            "description": "Disillusioned with the intelligence community, top contractor Edward Snowden (Joseph Gordon-Levitt) leaves his job at the National Security Agency. He now knows that a virtual mountain of data is being assembled to track all forms of digital communication -- not just from foreign governments and terrorist groups, but from ordinary Americans. When Snowden decides to leak this classified information, he becomes a traitor to some, a hero to others and a fugitive from the law.",
+            "has-metadata": true,
+            "covers-url": {
+                "horizontal": "https://example.com/series/snowden/covers/horizontal.png",
+                "vertical": "https://example.com/series/snowden/covers/vertical.png"
+            },
+            "data": {
+                "url": "https://example.com/series/snowden/covers/film.mkv"
+            }
+        }
+    }
+}

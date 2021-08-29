@@ -1,0 +1,14 @@
+{
+    "playlist": {
+        "omp-version": 1.0,
+        "author": {
+            "name": "RichardDorian",
+            "socials": [
+                { "name": "GitHub", "value": "https://github.com/RichardDorian" }
+            ],
+            "additional-infos": "Here, the author can put everything he wants"
+        },
+        "use-http": true,
+        "use-tag": true
+    }
+}
